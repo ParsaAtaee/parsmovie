@@ -1,0 +1,20 @@
+{
+  "appId": "com.parsmovie.app",
+  "appName": "پارس مووی",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-dev-elcvs75rrnjsfi35twgcrx-695700007807.us-west2.run.app",
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  },
+  "ios": {
+    "contentInset": "always",
+    "allowsLinkPreview": true,
+    "scrollEnabled": true
+  }
+}

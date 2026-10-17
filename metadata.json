@@ -1,0 +1,6 @@
+{
+  "name": "ققنوس مووی",
+  "description": "سامانه آرشیو و تماشای آنلاین فیلم و سریال با قابلیت اتصال هوشمند به IMDb و پنل مدیریت پیشرفته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
